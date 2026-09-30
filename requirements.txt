@@ -1,0 +1,17 @@
+# Install matching torch/torchvision wheels separately for your CUDA or CPU platform.
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+scikit-learn==1.7.1
+matplotlib==3.9.2
+Pillow>=10,<12
+opencv-python>=4.8,<4.12
+PyYAML>=6,<7
+tqdm>=4.66,<5
+requests>=2.31,<3
+psutil>=5.9,<8
+py-cpuinfo>=9
+seaborn>=0.13,<0.14
+dill>=0.3.8,<0.5
+ultralytics-thop>=2,<3
+pyserial==3.5
